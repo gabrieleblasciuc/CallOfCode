@@ -1,0 +1,17 @@
+C:\Users\gabriele.blasciuc\source\repos\CallOfCode\CallOfCode\bin\Debug\CallOfCode.exe.config
+C:\Users\gabriele.blasciuc\source\repos\CallOfCode\CallOfCode\bin\Debug\CallOfCode.exe
+C:\Users\gabriele.blasciuc\source\repos\CallOfCode\CallOfCode\bin\Debug\CallOfCode.pdb
+C:\Users\gabriele.blasciuc\source\repos\CallOfCode\CallOfCode\obj\Debug\CallOfCode.csproj.AssemblyReference.cache
+C:\Users\gabriele.blasciuc\source\repos\CallOfCode\CallOfCode\obj\Debug\CallOfCode.Properties.Resources.resources
+C:\Users\gabriele.blasciuc\source\repos\CallOfCode\CallOfCode\obj\Debug\CallOfCode.csproj.GenerateResource.cache
+C:\Users\gabriele.blasciuc\source\repos\CallOfCode\CallOfCode\obj\Debug\CallOfCode.csproj.CoreCompileInputs.cache
+C:\Users\gabriele.blasciuc\source\repos\CallOfCode\CallOfCode\obj\Debug\CallOfCode.exe
+C:\Users\gabriele.blasciuc\source\repos\CallOfCode\CallOfCode\obj\Debug\CallOfCode.pdb
+C:\Users\gabriele.blasciuc\source\repos\CallOfCode\CallOfCode\obj\Debug\CallOfCode.Form1.resources
+C:\Users\gabriele.blasciuc\source\repos\CallOfCode\CallOfCode\obj\Debug\CallOfCode.ORU.resources
+C:\Users\gabriele.blasciuc\source\repos\CallOfCode\CallOfCode\obj\Debug\CallOfCode.PrDet2.resources
+C:\Users\gabriele.blasciuc\source\repos\CallOfCode\CallOfCode\obj\Debug\CallOfCode.USS.resources
+C:\Users\gabriele.blasciuc\source\repos\CallOfCode\CallOfCode\obj\Debug\CallOfCode.VLK.resources
+C:\Users\gabriele.blasciuc\source\repos\CallOfCode\CallOfCode\obj\Debug\CallOfCode.ORU_Anpassungen.resources
+C:\Users\gabriele.blasciuc\source\repos\CallOfCode\CallOfCode\obj\Debug\CallOfCode.ORU_Data.resources
+C:\Users\gabriele.blasciuc\source\repos\CallOfCode\CallOfCode\obj\Debug\CallOfCode.ORU_Routines.resources
